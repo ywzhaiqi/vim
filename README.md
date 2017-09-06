@@ -1,7 +1,9 @@
 
 使用 pathogen + git 管理 Vim 插件，参考 [教程：使用 pathogen + git 管理 Vim 插件](http://lostjs.com/2012/02/04/use-pathogen-and-git-to-manage-vimfiles/)
 
-## 使用方式
+## 使用
+
+`git clone` 后，使用 `git submodule update --init --recursive` 初始化插件
 
 ### 安装插件
 
